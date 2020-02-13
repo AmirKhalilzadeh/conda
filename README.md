@@ -10,6 +10,9 @@ http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=inde
 
 http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=BAYES.ipynb
 
+https://mybinder.org/v2/gh/AmirKhalilzadeh/conda/master?filepath=BAYES.ipynb
+
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
