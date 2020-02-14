@@ -8,6 +8,7 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/AmirKhalilzadeh/conda/master?filepath=BAYES.ipynb
 
+https://nbviewer.jupyter.org/github/AmirKhalilzadeh/conda/blob/master/task1/task_1.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
