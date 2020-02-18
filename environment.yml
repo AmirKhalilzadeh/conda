@@ -1,13 +1,7 @@
-name: example-environment
+name: ees-tasks
 channels:
   - conda-forge
 dependencies:
-  - psutil
-  - toolz
-  - dill
-  - partd
-  - bokeh
-  - dask
   - python=3.6
   - numpy=1.16
   - pandas=0.24
