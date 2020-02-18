@@ -12,7 +12,8 @@ from sklearn.metrics import precision_recall_curve
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import precision_score, recall_score
 from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, StratifiedKFold
-
+import warnings
+warnings.filterwarnings("ignore")
 
 # In[ ]:
 
