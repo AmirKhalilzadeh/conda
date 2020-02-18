@@ -16,10 +16,3 @@ The main content, the example and tasks in this unit are original. For task 2 th
 ### Task 3: short answer to the sample learner question
 
 [![Binder](https://img.shields.io/badge/jupyter_nbviewer-Task_3-green)](https://nbviewer.jupyter.org/github/AmirKhalilzadeh/conda/blob/master/task_3.ipynb)
-
-<b>Time spent doing the tasks</b>:
-It took me several (3-4) after work evenings to finish the work. Here is the distribution:
-  - reviewing the related content (10%)
-  - framing stories and examples (20%)
-  - framing the exercies (20%)
-  - composing the layout and content and finding out how to best communicate them (50%). I hadn't used nbviewer and binder before.
