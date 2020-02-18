@@ -15,4 +15,4 @@ The main content, the example and tasks in this unit are original. For task 2 th
 
 ### Task 3: short answer to the sample learner question
 
-[![Binder](https://img.shields.io/badge/jupyter_nbviewer-Task_3-green)](https://nbviewer.jupyter.org/github/AmirKhalilzadeh/conda/blob/master/task_1.ipynb)
+[![Binder](https://img.shields.io/badge/jupyter_nbviewer-Task_3-green)](https://nbviewer.jupyter.org/github/AmirKhalilzadeh/conda/blob/master/task_3.ipynb)
